@@ -1,7 +1,7 @@
-# LMGTFY
+# LMBSTFY
 
-[Let Me Google That For You - LMGTFY](https://lmddgtfy.medip.dev/)
+[Let Me Brave Search That For You - LMBSTFY](https://lmbstfy.medip.dev/)
 
-Google logo and the word “Google” are copyrighted by Google
+Brave logo is copyrighted by Bravve
 
 Thanks to [myano](https://github.com/myano/) for [lmddgtfy](https://github.com/myano/lmddgtfy)

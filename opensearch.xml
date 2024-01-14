@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-    <ShortName>LMGTFY</ShortName>
-    <Description>Let Me Google That For You</Description>
-    <Url type="text/html" method="get" template="https://lmgtfy.medip.dev/?q={searchTerms}"/>
-    <Image width="16" height="16">https://lmgtfy.medip.dev/favicon.ico</Image>
+    <ShortName>LMBSTFY</ShortName>
+    <Description>Let Me Brave Search That For You</Description>
+    <Url type="text/html" method="get" template="https://lmbstfy.medip.dev/?q={searchTerms}"/>
+    <Image width="16" height="16">https://lmbstfy.medip.dev/favicon.ico</Image>
     <InputEncoding>UTF-8</InputEncoding>
-    <moz:SearchForm>https://lmgtfy.medip.dev/</moz:SearchForm>
+    <moz:SearchForm>https://lmbstfy.medip.dev/</moz:SearchForm>
 </OpenSearchDescription>
